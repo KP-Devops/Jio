@@ -1,5 +1,5 @@
-I'm updating in dev branch ......
-
+Iam updating in dev branch ......
+Iam updating in master branch
 
 hi this is a test file for jave in git repoisitory. 
 
