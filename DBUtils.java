@@ -1,4 +1,4 @@
-Hello Iam updating this line on 13th jan to test the stash cmd.
+Hello Iam updating this line on 13th jan to test the cherry-pick 
 
 Iam updating in master branch
 
