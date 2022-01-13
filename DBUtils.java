@@ -1,4 +1,4 @@
-Hello Iam updating this line on 13th jan to test the cherry-pick.... 
+git cherry pick command. 
 
 Iam updating in master branch
 
