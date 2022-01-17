@@ -1,2 +1,3 @@
 Hello .... This file contains the string functions..
 
+This is used for to know how to work the Clone command for the first time............
