@@ -1,3 +1,6 @@
 Hello .... This file contains the string functions..
 
 This is used for to know how Clone command is working for very first time for Pull Request............
+  
+  
+  Again, I am checking how the Clone command is working for Pull & Fetch.If I updated 2 commits at a time...............
